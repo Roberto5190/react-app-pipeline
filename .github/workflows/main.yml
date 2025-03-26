@@ -40,5 +40,5 @@ jobs:
 
           push: true
 
-          tags: ${{ secrets.DOCKER_USERNAME }}/nombredelrepositorio:latest
+          tags: ${{ secrets.DOCKER_USERNAME }}/react-app-pipeline:latest
  
